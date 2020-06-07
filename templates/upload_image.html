@@ -1,0 +1,11 @@
+{% block main %}
+    <form action="" method="POST" enctype="multipart/form-data">
+       <div class="form-group">
+           <input type="file" class="custom-file-input" name="file" id="file">
+       </div>
+        <button type="submit" class="btn btn-primary">Upload</button>
+		<div>
+		    <label><i>{{ form.tree.label }}</i></label>
+		</div>
+      </form>
+{% endblock %}

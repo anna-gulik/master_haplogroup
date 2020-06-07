@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<header><h1>Find a distribution area of individ by haplogroup</h1></header>
+<body>
+{% block body %}{% endblock %}
+{% block content %}
+    
+    <form action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.haplogroup.label }} {{ form.haplogroup(size=32) }}
+        </p>
+        <p>{{ form.submit() }}</p>
+        <div>
+            <font color="red">
+		        <label><i>{{ form.exception.label }}</i></label>
+            </font>
+		</div>
+    </form>
+{% endblock %}
+{% block map %}{% endblock %}
+</body>
+</html>
