@@ -1,0 +1,36 @@
+# packages in environment at C:\Users\hanna\miniconda3\envs\bio_enviroment:
+#
+# Name                    Version                   Build  Channel
+branca                    0.4.1                    pypi_0    pypi
+ca-certificates           2020.1.1                      0  
+certifi                   2020.4.5.1               py38_0  
+chardet                   3.0.4                    pypi_0    pypi
+click                     7.1.2                      py_0  
+flask                     1.1.2                      py_0  
+flask-wtf                 0.14.3                   pypi_0    pypi
+folium                    0.11.0                   pypi_0    pypi
+geojson                   2.5.0                    pypi_0    pypi
+idna                      2.9                      pypi_0    pypi
+itsdangerous              1.1.0                      py_0  
+jinja2                    2.11.2                     py_0  
+markupsafe                1.1.1            py38he774522_0  
+numpy                     1.18.5                   pypi_0    pypi
+openssl                   1.1.1g               he774522_0  
+pandas                    1.0.4                    pypi_0    pypi
+pip                       20.0.2                   py38_3  
+python                    3.8.3                he1778fa_0  
+python-dateutil           2.8.1                    pypi_0    pypi
+pytz                      2020.1                   pypi_0    pypi
+pyvcf                     0.6.8                    pypi_0    pypi
+requests                  2.23.0                   pypi_0    pypi
+setuptools                47.1.1                   py38_0  
+six                       1.15.0                   pypi_0    pypi
+sqlite                    3.31.1               h2a8f88b_1  
+urllib3                   1.25.9                   pypi_0    pypi
+vc                        14.1                 h0510ff6_4  
+vs2015_runtime            14.16.27012          hf0eaf9b_2  
+werkzeug                  1.0.1                      py_0  
+wheel                     0.34.2                   py38_0  
+wincertstore              0.2                      py38_0  
+wtforms                   2.3.1                    pypi_0    pypi
+zlib                      1.2.11               h62dcd97_4  
